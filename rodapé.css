@@ -1,0 +1,8 @@
+@media screen and (min-width: 1024px) {
+  /* Código omitido */
+
+  .lista-rodapé__item {
+    display: flex;
+    align-items: center;
+  }
+}
